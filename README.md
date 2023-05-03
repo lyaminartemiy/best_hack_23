@@ -1,6 +1,6 @@
 # BEST HACK'23
 
-Данное решение команды GibData заняло второе место в [BEST Hack при МГТУ им. Н.Э. Баумана](https://vk.com/besthack2023)
+Данное решение команды GibData заняло второе место (первое на лидерборде) в [BEST Hack при МГТУ им. Н.Э. Баумана](https://vk.com/besthack2023)
 
 ![image](https://i.ibb.co/x2JF24G/image.png)
 
